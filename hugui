@@ -6,7 +6,7 @@
 
 local UILib = {}
 
-local DisableExperimentalDragging = true
+local DisableExperimentalDragging = false
 local DisableMovementRotation = true
 local MovementTweenTime = .15
 local isUsingSlider = false
